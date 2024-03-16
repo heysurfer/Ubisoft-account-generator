@@ -1,0 +1,7 @@
+beautifulsoup4==4.12.3
+capsolver_python==1.0
+MailTm==0.0.81
+phonenumbers==8.13.21
+pyotp==2.9.0
+Requests==2.31.0
+urllib3==1.26.13
